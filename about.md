@@ -14,6 +14,6 @@ permalink: /about/
 
 ### Контактная информацыя
 
-Email: [mactonycs@gmail.com](mailto:mactonycs@gmail.com)
-Discrod: MacTony#3311 (Возможно будет меняться)
-VK: [Антон Макаренков](https://vk.com/id308432755)
+Email: [mactonycs@gmail.com](mailto:mactonycs@gmail.com) <br/>
+Discrod: MacTony#3311 (Возможно будет меняться) <br/> 
+VK: [Антон Макаренков](https://vk.com/id308432755) <br/>
