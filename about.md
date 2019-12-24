@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Немного обо мне
 
-### More Information
+### Больше информации
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Контактная информацыя
 
-[email@domain.com](mailto:email@domain.com)
+[mactonycs@gmail.com](mailto:mactonycs@gmail.com)
